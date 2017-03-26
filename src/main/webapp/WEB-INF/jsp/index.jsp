@@ -16,5 +16,12 @@
 
 <a href="http://clck.yandex.ru/redir/dtype=stred/pid=7/cid=1228/*http://pogoda.yandex.ru/jakarta"><img src="http://info.weather.yandex.net/jakarta/2.ru.png" border="0" alt=""/><img width="1" height="1" src="http://clck.yandex.ru/click/dtype=stred/pid=7/cid=1227/*http://img.yandex.ru/i/pix.gif" alt="" border="0"/></a>
 
+
+<ul>
+    <li><a href="users.html">User List</a></li>
+</ul>
+<%--<ul>--%>
+    <%--<li><a href="addUser.html">Meal List</a></li>--%>
+<%--</ul>--%>
 </body>
 </html>
