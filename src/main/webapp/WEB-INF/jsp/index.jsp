@@ -20,8 +20,6 @@
 <ul>
     <li><a href="users.html">User List</a></li>
 </ul>
-<%--<ul>--%>
-    <%--<li><a href="addUser.html">Meal List</a></li>--%>
-<%--</ul>--%>
+
 </body>
 </html>
